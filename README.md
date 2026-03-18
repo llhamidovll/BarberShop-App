@@ -1,9 +1,9 @@
 # BarberShop
 
 ## Student
-- Name: [DEIN NAME]
-- Matrikelnummer: [DEINE MATRIKELNUMMER]
-- Kurs / Modul: [KURS ODER MODUL]
+- Name: Abdulhamid Suliman
+- Matrikelnummer: 77211817917
+- Kurs / Modul: App Entwicklung mit Android WiSe-2025
 
 ## Projektbeschreibung
 BarberShop ist eine Android-App zur Terminbuchung für einen Friseursalon. Benutzer können sich registrieren oder anmelden, einen Barber auswählen, einen Service auswählen, freie Zeitslots anzeigen lassen, einen Termin buchen und eigene Termine wieder stornieren.
